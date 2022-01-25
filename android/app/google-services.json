@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406179348417",
+    "project_id": "travel-planner-final-1",
+    "storage_bucket": "travel-planner-final-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406179348417:android:004f9ed5c6e67cb7953940",
+        "android_client_info": {
+          "package_name": "com.abhigyan.tripplanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406179348417-qkfbt732t8et92o76c0u2tmnv168n4bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1mr2fhBwk1EwLVfPv2gB6t1_fhzSj2jY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406179348417-qkfbt732t8et92o76c0u2tmnv168n4bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
